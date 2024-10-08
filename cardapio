@@ -1,0 +1,28 @@
+<table border="5">
+    <tr>
+    <th>Nome do prato</th>
+    <th>Valor</th>
+    </tr>
+    <tr>
+       <td>Passada de Frango</td>
+       <td>R$ 49,90</td>
+      <td><img src="https://pbs.twimg.com/media/EaU1uwBWsAEbRWL.jpg"width=300 height=200 alt="Frango"></td>
+    </tr>
+    <tr>
+        <td>Drible de Frutas</td>
+        <td>R$ 15,90</td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CmGzqX7a3Bxv29hb-0mX2C33btYOibEhcMXQQyRkTYl7VoYQPId1MrUYVXCrm7dJMF4&usqp=CAU" width=300 height=200px alt="Fruta"></td>
+    </tr>
+    <tr>
+        <td>Chute de filé</td>
+        <td>R$ 55,90</td>
+        <td><img src="https://conteudo.imguol.com.br/blogs/3/files/2018/11/messi-e-salt-bae.jpeg" width=300 height=200  alt="filé"></td>
+    </tr>
+    <tr>
+        <td>Gol de jacare</td>
+        <td>R$ 39,90</td>
+        <td><img src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/25/1110301667-esmm7ervlfedfhlu4f632tjes4.jpg" width=300 height=200 alt="Burguer"></td>
+    </tr>
+    
+</table>
+<a href="http://127.0.0.1:5500/restaurante.html"><h2><strong>Home</strong></h2></a>
