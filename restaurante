@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabores do senac</title>
+</head>
+<body>
+    <h1>Sabores do senac</h1>
+    <img src="https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/07/1091660-1.jpg"width=2000 height=300 alt="Messi">
+     <p>Era uma vez, em um dia chuvoso de 2013, Lionel Messi estava caminhando pelas ruas de Barcelona quando encontrou um antigo restaurante abandonado. Inspirado por uma visão de um lugar onde os jogadores de futebol e os fãs poderiam se encontrar e compartilhar suas paixões, ele decidiu transformá-lo em um restaurante exclusivo. Com a ajuda de um mágico que conheceu em uma festa, Messi usou um encantamento secreto para transformar o local em um espaço acolhedor e inovador. O restaurante, chamado “Sabores do senac”, logo se tornou o ponto de encontro preferido de jogadores e fãs, oferecendo pratos com nomes inspirados em grandes jogadas e gols históricos. E assim, por um toque de mágica e uma visão criativa, nasceu um dos lugares mais icônicos de Barcelona.
+    </p>
+    <img src="https://s2-oglobo.glbimg.com/6X_1nxNkH1nBqGNF2txhHrmqB34=/0x0:518x394/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/8/c/GIT0B3QKychrflxTFAfw/screenshot-30.png"width="250"height=250 alt="Equipe">
+    <ul>
+        Ingredientes magicos
+    </ul>
+     <ul>
+        ambiente acolhedor
+    </ul>
+    <ul>
+        Receitas Magicas
+    </ul>
+      <p><h3>Confira o Cardapio</p></h3>
+     <a href="http://127.0.0.1:5500/cardapio.html"><h2><strong>Cardapio</strong></h2></a>
+
+
+     
+</body>
+</html>
